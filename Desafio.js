@@ -1,7 +1,7 @@
 let nomeHeroi = "Shiro Uchiha"
 let heroiXp = 3000;
 
-let nivel = heroiXp <= 1000 ? "Ferro": "Nenhum";
+let nivel = heroiXp <= 1000 ? "Ferro":
 heroiXp > 1001 && heroiXp <= 2000 ? "Bronze" :
 heroiXp > 2001 && heroiXp <= 5000 ? "Prata" :
 heroiXp > 5001 && heroiXp <= 7000 ? "Ouro" :
